@@ -1,0 +1,23 @@
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\bin\Debug\BBSgauge.exe.config
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\obj\Debug\BBSgauge.csprojResolveAssemblyReference.cache
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\obj\Debug\BBSgauge.Form1.resources
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\obj\Debug\BBSgauge.Properties.Resources.resources
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\obj\Debug\BBSgauge.csproj.GenerateResource.Cache
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\bin\Debug\BBSgauge.exe
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\bin\Debug\BBSgauge.pdb
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\obj\Debug\BBSgauge.exe
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\obj\Debug\BBSgauge.pdb
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\obj\Debug\BBSgauge.StarSkyForm.resources
+C:\Users\Анна\Desktop\КМЗИ\To pass\BBSgauge\BBSgauge\obj\Debug\BBSgauge.ChartForm.resources
+D:\Учебная\BBSgauge\BBSgauge\bin\Debug\BBSgauge.exe.config
+D:\Учебная\BBSgauge\BBSgauge\obj\Debug\BBSgauge.exe
+D:\Учебная\BBSgauge\BBSgauge\obj\Debug\BBSgauge.pdb
+D:\Учебная\BBSgauge\BBSgauge\bin\Debug\BBSgauge.exe
+D:\Учебная\BBSgauge\BBSgauge\bin\Debug\BBSgauge.pdb
+D:\Учебная\BBSgauge\BBSgauge\obj\Debug\BBSgauge.ChartForm.resources
+D:\Учебная\BBSgauge\BBSgauge\obj\Debug\BBSgauge.Form1.resources
+D:\Учебная\BBSgauge\BBSgauge\obj\Debug\BBSgauge.Properties.Resources.resources
+D:\Учебная\BBSgauge\BBSgauge\obj\Debug\BBSgauge.StarSkyForm.resources
+D:\Учебная\BBSgauge\BBSgauge\obj\Debug\BBSgauge.csproj.GenerateResource.Cache
+D:\Учебная\BBSgauge\BBSgauge\obj\Debug\BBSgauge.csprojAssemblyReference.cache
+D:\Учебная\BBSgauge\BBSgauge\obj\Debug\BBSgauge.csproj.CoreCompileInputs.cache
